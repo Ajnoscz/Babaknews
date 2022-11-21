@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on BabakNews</title>
+        <link>https://ajnoscz.github.io/babaknews/categories/</link>
+        <description>Recent content in Categories on BabakNews</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 19 Nov 2022 18:49:55 +0100</lastBuildDate><atom:link href="https://ajnoscz.github.io/babaknews/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>LMAO</title>
+        <link>https://ajnoscz.github.io/babaknews/categories/lmao/</link>
+        <pubDate>Sat, 19 Nov 2022 18:49:55 +0100</pubDate>
+        
+        <guid>https://ajnoscz.github.io/babaknews/categories/lmao/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>haha</title>
+        <link>https://ajnoscz.github.io/babaknews/categories/haha/</link>
+        <pubDate>Sat, 19 Nov 2022 18:38:08 +0100</pubDate>
+        
+        <guid>https://ajnoscz.github.io/babaknews/categories/haha/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
